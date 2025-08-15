@@ -1,0 +1,9 @@
+streamlit
+langchain==0.2.14
+langchain-community==0.2.14
+langchain-text-splitters
+chromadb
+pypdf2
+huggingface_hub
+sentence-transformers
+torch
